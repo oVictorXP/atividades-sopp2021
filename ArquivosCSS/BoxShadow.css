@@ -1,0 +1,11 @@
+
+ .box-sdw-dark {
+    border: 1px solid;
+    
+    box-shadow: 5px 10px 18px #000000;
+  }
+  .box-sdw {
+    border: 1px solid;
+    
+    box-shadow: 5px 10px 18px #4b4a4a;
+  }
